@@ -1,1 +1,1 @@
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mmaaaaz&bg_color=000040&color=0080ff&line=8000ff&point=ff8000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mmaaaaz&bg_color=000000&color=ffffff&line=0000ff&point=00cece&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
