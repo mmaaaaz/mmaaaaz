@@ -15,3 +15,16 @@ Other        3 mins          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irisyann&show_icons=true&theme=github_dark&layout=compact&hide=css">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=irisyann&show_icons=true&theme=github_dark">
+</div>
+
+<br>
