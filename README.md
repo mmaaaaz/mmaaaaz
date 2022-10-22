@@ -18,13 +18,13 @@ Other        3 mins          ░░░░░░░░░░░░░░░░░
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irisyann&show_icons=true&theme=github_dark&layout=compact&hide=css">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmaaaaz&show_icons=true&theme=github_dark&layout=compact&hide=css">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irisyann&show_icons=true&theme=github_dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmaaaaz&show_icons=true&theme=github_dark">
 </div>
 
 <br>
