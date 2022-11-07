@@ -6,12 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   2 hrs 45 mins   ██████████████████░░░░░░░   71.47 %
-Astro        58 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.41 %
-C++          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
