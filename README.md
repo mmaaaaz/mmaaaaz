@@ -4,12 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C++          27 mins         ███████████████▒░░░░░░░░░   60.90 %
-TypeScript   8 mins          █████░░░░░░░░░░░░░░░░░░░░   19.59 %
-Python       6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
-JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
