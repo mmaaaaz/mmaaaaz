@@ -1,6 +1,5 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mmaaaaz&label=PROFILE+VIEWS&color=22223b&style=for-the-badge" alt="mmaaaaz" /> </p>
 
-<p align="center">
 <!--START_SECTION:waka-->
 
 ```text
@@ -10,9 +9,16 @@ CSS          8 mins          █░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-</p>
 
-<div align="center">
+![trophy](https://github-profile-trophy.vercel.app/?username=mmaaaaz)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmaaaaz)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mmaaaaz&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/mmaaaaz)  
+
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmaaaaz&show_icons=true&theme=github_dark&layout=compact&hide=css">
 </div>
 
@@ -22,4 +28,4 @@ CSS          8 mins          █░░░░░░░░░░░░░░░░
   <img src="https://github-readme-stats.vercel.app/api?username=mmaaaaz&show_icons=true&theme=github_dark">
 </div>
 
-<br>
+<br> -->
