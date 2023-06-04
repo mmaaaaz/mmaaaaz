@@ -10,22 +10,16 @@ CSS          8 mins          █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-![trophy](https://github-profile-trophy.vercel.app/?username=mmaaaaz)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmaaaaz)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mmaaaaz&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/mmaaaaz)  
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmaaaaz&show_icons=true&theme=github_dark&layout=compact&hide=css">
-</div>
-
-<br>
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=mmaaaaz) -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmaaaaz&show_icons=true&theme=github_dark">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmaaaaz&show_icons=true&theme=github_dark&layout=compact&hide=css)
 </div>
 
-<br> -->
+<div align="center">
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mmaaaaz&show_icons=true&theme=github_dark&count_private=true)  
+</div>
+
+<div align="center">
+  ![GitHub metrics](https://metrics.lecoq.io/mmaaaaz)
+</div>
