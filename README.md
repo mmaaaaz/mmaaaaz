@@ -13,13 +13,15 @@ CSS          8 mins          █░░░░░░░░░░░░░░░░
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmaaaaz&show_icons=true&theme=github_dark&layout=compact&hide=css">
+    ![Maaz's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mmaaaaz&show_icons=true&theme=github_dark&layout=compact&hide=css)
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmaaaaz&show_icons=true&theme=github_dark&layout=compact&hide=css"> -->
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmaaaaz&show_icons=true&theme=github_dark">
+  ![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmaaaaz&show_icons=true&theme=github_dark)
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=mmaaaaz&show_icons=true&theme=github_dark"> -->
 </div>
 
 <br>
