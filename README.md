@@ -10,11 +10,8 @@ No activity tracked
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=mmaaaaz) -->
 
-![Maaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.dev&theme=github_dark&username=mmaaaazu)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmaaaaz&show_icons=true&theme=github_dark&layout=compact&hide=css)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mmaaaaz&show_icons=true&theme=github_dark&count_private=true)  
+![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmaaaaz&show_icons=true&theme=github_dark&count_private=true)
 
-![GitHub metrics](https://metrics.lecoq.io/mmaaaaz)
 
