@@ -1,12 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mmaaaaz&label=PROFILE+VIEWS&color=22223b&style=for-the-badge" alt="mmaaaaz" /> </p>
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mmaaaaz&label=PROFILE+VIEWS&color=222222&style=for-the-badge&abbreviated=true" alt="mmaaaaz" /> </p>
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=mmaaaaz) -->
 
