@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mmaaaaz&label=PROFILE+VIEWS&color=#ff5c5c&style=for-the-badge&abbreviated=true" alt="mmaaaaz" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mmaaaaz&label=PROFILE+VIEWS&color=ff5c5c&style=for-the-badge&abbreviated=true" alt="mmaaaaz" /> </p>
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=mmaaaaz) -->
 
