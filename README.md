@@ -1,4 +1,4 @@
-# Hi 👋, I'm Muhammad Maaz
+# Hi 👋, I'm Maaz
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mmaaaaz&label=PROFILE+VIEWS&color=ff5c5c&style=for-the-badge&abbreviated=true" alt="mmaaaaz" /> </p>
 
