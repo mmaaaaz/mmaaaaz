@@ -2,8 +2,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mmaaaaz&label=PROFILE+VIEWS&color=ff5c5c&style=for-the-badge&abbreviated=true" alt="mmaaaaz" /> </p>
 
-- I'm currently working on **ahsanautos.pk**
-- I'm currently learning **AI / Flutter**
+- Currently working on **upwork**
+- Learning **Agentic AI / Golang**
 - How to reach me **devmaaaaz@gmail.com**
 
 # GitHub Stats:
